@@ -27,3 +27,7 @@ Execute o comando:
 ```bash
 oci ce cluster list --compartment-id <OCID_DO_COMPARTIMENTO>
 ```
+
+Isso retorna a lista de clusters no seu compartimento.
+
+### 3. Obter as Credenciais do Cluster
