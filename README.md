@@ -7,3 +7,8 @@ O Cloud Shell é um terminal baseado em navegador, disponível diretamente no co
 ## 📌 Pré-requisitos
 
 Antes de configurar o acesso ao cluster via Cloud Shell, você precisará:
+
+- Uma conta ativa no Oracle Cloud Infrastructure (OCI).
+- Permissão adequada configurada no IAM para acessar clusters do OKE.
+- Um cluster Kubernetes já criado no OKE.
+- Habilitar o acesso ao Cloud Shell pelo Console OCI.
