@@ -16,3 +16,6 @@ Antes de configurar o acesso ao cluster via Cloud Shell, você precisará:
 ## ⚙️ Passos para Configuração
 
 ### 1. Acessar o Cloud Shell
+
+- No Console OCI, clique no ícone de Cloud Shell (canto superior direito).
+- Uma sessão shell será aberta no navegador.
