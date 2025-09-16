@@ -20,4 +20,10 @@ Antes de configurar o acesso ao cluster via Cloud Shell, você precisará:
 - No Console OCI, clique no ícone de Cloud Shell (canto superior direito).
 - Uma sessão shell será aberta no navegador.
 
-### Listar os Clusters Disponíveis
+### 2. Listar os Clusters Disponíveis
+
+Execute o comando:
+
+```bash
+oci ce cluster list --compartment-id <OCID_DO_COMPARTIMENTO>
+```
