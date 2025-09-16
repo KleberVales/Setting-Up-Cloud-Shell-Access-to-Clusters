@@ -55,4 +55,9 @@ Se o acesso estiver correto, você verá a lista de worker nodes do cluster.
 
 ### 🔑 Benefícios do Cloud Shell
 
+- ✅ Não requer configuração local (tudo já vem instalado).
+- ✅ Acesso seguro diretamente do console OCI.
+- ✅ Suporte nativo a kubectl, helm e oci-cli.
+- ✅ Facilita troubleshooting e administração rápida de clusters.
+
 
