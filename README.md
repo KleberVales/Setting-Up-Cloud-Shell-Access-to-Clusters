@@ -41,3 +41,7 @@ oci ce cluster create-kubeconfig \
   --token-version 2.0.0 \
   --kube-endpoint PUBLIC_ENDPOINT
 ```
+
+🔹 Substitua <OCID_DO_CLUSTER> e <REGION> pelos valores do seu cluster.
+
+
