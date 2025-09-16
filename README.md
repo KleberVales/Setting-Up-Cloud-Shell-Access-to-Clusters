@@ -44,4 +44,6 @@ oci ce cluster create-kubeconfig \
 
 🔹 Substitua <OCID_DO_CLUSTER> e <REGION> pelos valores do seu cluster.
 
+### 4. Verificar Conexão com o Cluster
+
 
