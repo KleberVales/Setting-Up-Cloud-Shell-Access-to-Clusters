@@ -51,4 +51,8 @@ Agora teste a conexão com:
 kubectl get nodes
 ```
 
+Se o acesso estiver correto, você verá a lista de worker nodes do cluster.
+
+### 🔑 Benefícios do Cloud Shell
+
 
