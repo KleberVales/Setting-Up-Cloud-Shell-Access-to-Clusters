@@ -46,4 +46,9 @@ oci ce cluster create-kubeconfig \
 
 ### 4. Verificar Conexão com o Cluster
 
+Agora teste a conexão com:
+```bash
+kubectl get nodes
+```
+
 
