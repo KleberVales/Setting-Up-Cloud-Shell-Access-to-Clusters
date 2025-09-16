@@ -12,3 +12,5 @@ Antes de configurar o acesso ao cluster via Cloud Shell, você precisará:
 - Permissão adequada configurada no IAM para acessar clusters do OKE.
 - Um cluster Kubernetes já criado no OKE.
 - Habilitar o acesso ao Cloud Shell pelo Console OCI.
+
+## ⚙️ Passos para Configuração
