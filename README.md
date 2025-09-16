@@ -31,3 +31,13 @@ oci ce cluster list --compartment-id <OCID_DO_COMPARTIMENTO>
 Isso retorna a lista de clusters no seu compartimento.
 
 ### 3. Obter as Credenciais do Cluster
+
+Use o comando abaixo para gerar o arquivo kubeconfig:
+```bash
+oci ce cluster create-kubeconfig \
+  --cluster-id <OCID_DO_CLUSTER> \
+  --file $HOME/.kube/config \
+  --region <REGION> \
+  --token-version 2.0.0 \
+  --kube-endpoint PUBLIC_ENDPOINT
+```
